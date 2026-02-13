@@ -1,6 +1,6 @@
 import telebot
 
-BOT_TOKEN = "BOT_TOKEN = "7850690150:AAHDZHkquSUlmvztzTc6CkqPl2M3_j0BFe4"
+BOT_TOKEN = "BOT_TOKEN = "7850690150:AAGSPOBVy-6ZrAxnDpb30KY9oB-CEnyZ6kE"
 AD_LINK = "https://omg10.com/4/10607176"
 
 bot = telebot.TeleBot(BOT_TOKEN)
